@@ -1,0 +1,10 @@
+PySide6
+opencv-python
+numpy
+Pillow
+pytesseract
+torch
+torchvision
+ultralytics
+imageio
+imageio-ffmpeg
