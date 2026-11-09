@@ -2,9 +2,7 @@ PySide6
 opencv-python
 numpy
 Pillow
-pytesseract
-torch
-torchvision
-ultralytics
+easyocr
 imageio
 imageio-ffmpeg
+yt-dlp
